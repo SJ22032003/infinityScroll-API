@@ -3,4 +3,4 @@
 > Responsive
 > SEO friendly
 
-# https://practical-goldwasser-5352d5.netlify.app/
+# https://infintyscrollunsplash.netlify.app/
